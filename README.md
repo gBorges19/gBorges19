@@ -32,7 +32,3 @@ Olá, me chamo Gustavo Borges e possuo 20 anos, estudo Ciência da Computação 
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519971618090"/></a>
 
 </p>
-
-[![card](https://github-readme-stats.vercel.app/api?username=gBorges19&theme=synthwave)](https://github.com/gBorges19/)
-
-[![gBorges19](https://github-readme-stats.vercel.app/api/top-langs/?username=gBorges19&hide=html&layout=compact&theme=synthwave)](https://github.com/gBorges19/)
