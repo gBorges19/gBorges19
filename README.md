@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Olá, me chamo Gustavo Borges e possuo 20 anos, estudo Ciência da Computação na Universidade Estadual do Oeste do Paraná (UNIOESTE) em Foz do Iguaçu e também trabalho no Parque Tecnológico Itaipu. Atualmente estou focado em aprender Machine Learning e Game Development.
+Olá, me chamo Gustavo Borges e possuo 20 anos, estudo Ciência da Computação na Universidade Estadual do Oeste do Paraná (UNIOESTE) em Foz do Iguaçu e também trabalho no Parque Tecnológico Itaipu. Atualmente estou focado em aprender Data Science e Game Development.
 
 <p align="left">
   🦄 Linguagens:
